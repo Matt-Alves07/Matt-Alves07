@@ -54,7 +54,7 @@ What I truly enjoy doing:
 
 📫 **Email:** matheus.alves523@gmail.com  
 📱 **Phone:** +55 21 992-339-161  
-🔗 **LinkedIn:** https://matt-alves07.github.io/
+🔗 **LinkedIn:** https://www.linkedin.com/in/matheusalves07/
 
 ---
 
