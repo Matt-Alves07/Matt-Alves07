@@ -1,8 +1,62 @@
-- 👋 Hi, I’m @Matt-Alves07, and I'm a mid-senior fullstack software engineer, with more than 7 years of work in various software projects, from a monolithic ERP to web and microservices, using both SOAP and Rest. I have advanced knowledge of relational databases, experience with Redis and Mongo DB, and always seeking for new opportunities to apply his technical and creative skills;
-- 👀 In the mean time, I'm always improving my skills, and, to summarize, I learned Angular, RxJS and Angular Material, React js, react router and icons, and so on, looking forward to combine them with my backend background;
-- 🌱 I work as a software engineer, with experience using .Net 5+, and both the latest LTS versions, Entity Framework, Docker, Postgresql, Oracle DB and a few other tools/frameworks, as needed. Besides, I'm currently working in serverless apps, using the Logic App, available in Microsoft Azure, to create apps to integrate different systems, using both SOAP and Rest requests;
-- 💞️ I'd like to collaborate in web applications, web services, cronjobs, and using my knowledge to help other people, meanwhile, I can improve myself doing so;
-- 📫 How to reach me: matheus.alves523@gmail.com or +55 (21) 992-339-161.
+# Hi, I'm Matheus 👋
+
+### **Senior Software Engineer | Focused on Scalable Backend Architectures & High Availability**
+
+With **over 7 years of experience** in the software industry, I specialize in building resilient, high-performance systems. My core expertise lies in **Backend Development** using **C# and Golang**, with a strong background in the full development lifecycle, including modern Frontend frameworks and DevOps practices.
+
+What I truly enjoy doing:
+* **Architecting Microservices from scratch:** Designing robust systems built to scale.
+* **Performance Engineering:** Deep-diving into existing services to optimize bottlenecks and improve efficiency.
+* **Technological Adaptability:** I thrive when challenged to work with unfamiliar technologies—whether it's implementing complex messaging patterns, notification systems, or exploring new database paradigms.
+
+---
+
+### **Technical Expertise**
+
+#### **Backend & Systems Architecture**
+* **Languages:** C#, Golang
+* **Architectures:** Microservices, Event-Driven Design, High Availability Systems
+* **Patterns:** Messaging & Notification Systems, Performance Optimization, Scalable Backend Services
+
+#### **Data & Persistence**
+* **Relational Databases:** SQL Server, PostgreSQL, MySQL, MariaDB
+* **Focus:** Database design, data integrity, and architectural integration
+* **Adaptability:** Experienced in implementing various data persistence solutions based on project scale and needs
+
+#### **Frontend Engineering**
+* **Core:** JavaScript (ES6+), TypeScript
+* **Frameworks:** React, Angular
+
+#### **DevOps & Infrastructure**
+* **Platforms:** Azure DevOps, GitLab, GitHub (including GitHub Pages)
+* **Version Control:** Git
+
+---
+
+### **Key Achievements & Core Competencies**
+
+* **Architectural Leadership:** Successfully designed and deployed scalable microservices architectures from the ground up, ensuring high availability and system resilience.
+* **Performance Optimization:** Proven track record of optimizing legacy services, resulting in significant improvements in system throughput and reduced latency.
+* **Data Management:** Extensive experience in designing and managing relational databases, ensuring data consistency and reliability across diverse environments.
+* **Strategic Problem Solving:** Strong analytical background in troubleshooting complex software and infrastructure performance issues.
+
+---
+
+### **Current Focus & Continuous Learning**
+
+* **Deepening Golang Expertise:** Expanding my proficiency in Go to build high-concurrency backend services.
+* **Serverless Architectures:** Implementing C# solutions via **Azure Functions** (HTTP-triggered) for scalable, cloud-native applications.
+* **AI-Augmented Development:** Utilizing AI to optimize development workflows and accelerate delivery cycles without compromising code quality.
+
+---
+
+### **Get in touch**
+
+📫 **Email:** matheus.alves523@gmail.com  
+📱 **Phone:** +55 21 992-339-161  
+🔗 **LinkedIn:** https://matt-alves07.github.io/
+
+---
 
 <!---
 Matt-Alves07/Matt-Alves07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
