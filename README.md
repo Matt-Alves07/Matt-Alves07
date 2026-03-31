@@ -2,7 +2,7 @@
 
 ### **Senior Software Engineer | Focused on Scalable Backend Architectures & High Availability**
 
-With **over 7 years of experience** in the software industry, I specialize in building resilient, high-performance systems. My core expertise lies in **Backend Development** using **C# and Golang**, with a strong background in the full development lifecycle, including modern Frontend frameworks and DevOps practices.
+With **over 8 years of experience** in the software industry, I specialize in building resilient, high-performance systems. My core expertise lies in **Backend Development** using **C# and Golang**, with a strong background in the full development lifecycle, including modern Frontend frameworks and DevOps practices.
 
 What I truly enjoy doing:
 * **Architecting Microservices from scratch:** Designing robust systems built to scale.
